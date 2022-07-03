@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^0.27.2",
+    "file-loader": "^6.2.0",
     "next": "12.2.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "url-loader": "^4.1.1",
+    "use-sound": "^4.0.1"
   },
   "devDependencies": {
     "eslint": "8.19.0",
